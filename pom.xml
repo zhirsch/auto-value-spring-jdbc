@@ -12,6 +12,12 @@
     <module>processor</module>
   </modules>
 
+  <scm>
+    <url>https://github.com/zhirsch/auto-value-spring-jdbc</url>
+    <connection>scm:git:https://github.com/zhirsch/auto-value-spring-jdbc.git</connection>
+    <developerConnection>scm:git:https://github.com/zhirsch/auto-value-spring-jdbc.git</developerConnection>
+  </scm>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
